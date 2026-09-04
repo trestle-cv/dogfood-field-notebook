@@ -1,0 +1,6 @@
+.nift/.lock
+__pycache__/
+.pytest_cache/
+.venv/
+.field-notebook.json
+.env
