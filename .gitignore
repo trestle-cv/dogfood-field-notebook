@@ -1,5 +1,6 @@
 .nift/.lock
 __pycache__/
+*.egg-info/
 .pytest_cache/
 .venv/
 .field-notebook.json
